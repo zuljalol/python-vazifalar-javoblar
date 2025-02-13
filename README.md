@@ -1,2 +1,2 @@
 # python-vazifalar-javoblar
-bunda pythinga iod darslar amaliyotlar bor
+bunda python ga iod darslar amaliyotlar bor
